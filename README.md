@@ -15,7 +15,7 @@
 <ul>
    <li><b>📍 <a href="https://github.com/DavidGarguliya/Project01_Testing_Mesto">Mesto:</a></b> регрессионное тестирование веб-сервиса; составлены тест-кейсы, оформлены баг-репорты, проведён ретест багов.</li>
   <li><b>📍 <a href="https://github.com/DavidGarguliya/Project02_Yandex_Routes_manual">Яндекс Маршруты:</a></b> функциональное тестирование валидации полей и расчёта стоимости поездки; тест-кейсы, техники тест-дизайна (КЭ, ГЗ)</li>
-   <li><b>📍 <a href="https://github.com/DavidGarguliya/Project03_Yandex_Routes_Carsharing_manual">Яндекс Маршруты: Каршеринг</a></b> интеграционное и функциональное тестирование, тестирование UI, валидация полей ввода платежных данных и документов; составлены тест-кейсы, оформлены баг-репорты, подготовлен отчет по тестированию</li>
+   <li><b>📍 <a href="https://github.com/DavidGarguliya/Project03_Yandex_Routes_Carsharing_manual">Яндекс Маршруты - Каршеринг:</a></b> интеграционное и функциональное тестирование, тестирование UI, валидация полей ввода платежных данных и документов; составлены тест-кейсы, оформлены баг-репорты, подготовлен отчет по тестированию</li>
   <li><b>📍 <a href="https://github.com/DavidGarguliya/Project04_Yandex_Metro_refactoring_mobile_testing">Яндекс Метро (Android):</a></b> функциональное и регрессионное тестирование; баг-репорты, отчёт о тестировании</li>
   <li><b>📍 <a href="https://github.com/DavidGarguliya/Project05_Yandex_Counter_API_testing">Яндекс Прилавок (API):</a></b> API-тестирование через Postman; проектирование чек-листов, баг-репорты</li>
   <li><b>📍 Investment Funds:</b> написание SQL-запросов, работа с данными, проверка бизнес-логики</li>
