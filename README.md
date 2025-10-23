@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👨‍💻 Гаргулия Давид Сергеевич</h1>
-<h3><a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">QA Engineer | Инженер по тестированию </h3></a>
+<h3><a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">QA Engineer | Инженер по тестированию HH.ru</h3></a>
 
 
 </div>
