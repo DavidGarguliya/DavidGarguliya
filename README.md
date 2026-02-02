@@ -1,91 +1,97 @@
 <div align="center">
 
 <h1>👨‍💻 Гаргулия Давид Сергеевич</h1>
-<h3><a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">QA Engineer | Инженер по тестированию HH.ru</h3></a>
-
+<h3>
+QA Automation Engineer (Python) / AQA Python<br/>
+<a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">Резюме на hh.ru</a>
+</h3>
 
 </div>
 
 <hr/>
 
-<h3>Инженер по тестированию с опытом более 13 лет в проектах разных сфер: строительство, финансы, e-commerce, онлайн-образование. Во всех компаниях был вовлечён в QA-задачи: функциональное и регрессионное тестирование, API-проверки, контроль качества релизов, работа с данными. Сейчас развиваюсь в области автоматизации тестирования на Python.</h3>
+<h3>
+QA Automation Engineer (Python) с фокусом на UI- и API-автоматизацию. 
+Осознанно перешёл в AQA после многолетней работы с веб-продуктами и качеством цифровых сервисов. 
+Работаю со стабильностью автотестов, поддерживаемой архитектурой и e2e-сценариями.
+</h3>
 
-<h2>🚀 PET-проекты</h2>
+<hr/>
+
+<h2>🚀 AQA / PET-проекты</h2>
 
 <ul>
-   <li><b>📍 <a href="https://github.com/DavidGarguliya/Project01_Testing_Mesto">Mesto:</a></b> регрессионное тестирование веб-сервиса; составлены тест-кейсы, оформлены баг-репорты, проведён ретест багов.</li>
-  <li><b>📍 <a href="https://github.com/DavidGarguliya/Project02_Yandex_Routes_manual">Яндекс Маршруты:</a></b> функциональное тестирование валидации полей и расчёта стоимости поездки; тест-кейсы, техники тест-дизайна (КЭ, ГЗ)</li>
-   <li><b>📍 <a href="https://github.com/DavidGarguliya/Project03_Yandex_Routes_Carsharing_manual">Яндекс Маршруты - Каршеринг:</a></b> интеграционное и функциональное тестирование, тестирование UI, валидация полей ввода платежных данных и документов; составлены тест-кейсы, оформлены баг-репорты, подготовлен отчет по тестированию</li>
-  <li><b>📍 <a href="https://github.com/DavidGarguliya/Project04_Yandex_Metro_refactoring_mobile_testing">Яндекс Метро (Android):</a></b> функциональное и регрессионное тестирование; баг-репорты, отчёт о тестировании</li>
-  <li><b>📍 <a href="https://github.com/DavidGarguliya/Project05_Yandex_Counter_API_testing">Яндекс Прилавок (API):</a></b> API-тестирование через Postman; проектирование чек-листов, баг-репорты</li>
-  <li><b>📍 Investment Funds:</b> написание SQL-запросов, работа с данными, проверка бизнес-логики</li>
+  <li>
+    <b>📍 Web Scooter Service — UI Automation</b><br/>
+    UI-автотесты для веб-сервиса аренды самокатов: FAQ, полный e2e-поток заказа через разные точки входа, навигация по логотипам.<br/>
+    Архитектура Page Object, Pytest-фикстуры, раздельные конфиги и тестовые данные. 
+    Устранение флейков (явные ожидания, единые таймауты).<br/>
+    <i>Стек:</i> Python, Pytest, Selenium (Firefox), Allure.
+  </li>
+  <br/>
+  <li>
+    <b>📍 Stellar Burgers — UI Automation</b><br/>
+    С нуля разработан набор UI-автотестов: регистрация, 4 варианта входа, личный кабинет, навигация вкладок конструктора.<br/>
+    Page Object, генерация тестовых данных, явные ожидания, README.<br/>
+    <i>Стек:</i> Python, Pytest, Selenium (Chrome).
+  </li>
+  <br/>
+  <li>
+    <b>📍 API + DB Automation (в разработке)</b><br/>
+    Автотесты REST API (pytest + requests): CRUD-сценарии, негативные кейсы, контрактные проверки.<br/>
+    SQL-проверки данных на уровне БД, связка API → БД → бизнес-логика.
+  </li>
 </ul>
 
 <hr/>
 
-<h2>📈 Карьерный трек</h2>
+<h2>📈 Опыт (смежный с QA, до автоматизации)</h2>
 
-<pre>
-2025 — наст.вр. | QA Engineer (PET-проекты, Яндекс Практикум)
-2022 — 2025     | Project Manager (Web, QA-задачи), EthnicUnique
-2020 — 2022     | Project Manager (Web, QA-задачи), Kronbau Euro Development
-2022 (2 мес.)   | Project Manager, COINPRO School
-2019 — 2020     | Investment Analyst, Brooklin Mate / Bright Future
-2018 — 2019     | Business Analyst & Product Manager, Terminal.io
-2014 — 2018     | Project Manager (QA-задачи в проектах), PROFIL AG
-2012 — 2014     | Financial manager (QA-задачи в проектах), PROFIL AG
-</pre>
+<ul>
+  <li>Приёмка веб-продуктов и релизов, функциональное и исследовательское тестирование UI</li>
+  <li>Проверка бизнес-логики, пользовательских сценариев и UX на соответствие требованиям</li>
+  <li>Поиск, описание и сопровождение дефектов: баг-репорты, регресс, взаимодействие с разработкой и бизнес-заказчиками</li>
+  <li>Тестирование сайтов и сервисов на CMS (Joomla, WordPress, Tilda), маркетплейсов и корпоративных веб-приложений на React</li>
+</ul>
 
 <hr/>
 
 <h2>🛠️ Hard Skills</h2>
+
 <p>
-  <img src="https://img.shields.io/badge/-Software_Testing-black">
-  <img src="https://img.shields.io/badge/-Test_Cases-black">
-  <img src="https://img.shields.io/badge/-Bug_Tracking-black">
-  <img src="https://img.shields.io/badge/-Regression_Testing-black">
-  <img src="https://img.shields.io/badge/-Test_Design-black">
-  <img src="https://img.shields.io/badge/-Functional_Testing-black">
-  <img src="https://img.shields.io/badge/-Postman-black?logo=postman">
-  <img src="https://img.shields.io/badge/-REST_API-black">
-  <img src="https://img.shields.io/badge/-Swagger-black?logo=swagger">
-  <img src="https://img.shields.io/badge/-SQL-black?logo=postgresql">
-  <img src="https://img.shields.io/badge/-Jira-black?logo=jira">
-  <img src="https://img.shields.io/badge/-YouTrack-black?logo=jetbrains">
-  <img src="https://img.shields.io/badge/-Trello-black?logo=trello">
-  <img src="https://img.shields.io/badge/-Git-black?logo=git">
-  <img src="https://img.shields.io/badge/-GitHub-black?logo=github">
-  <img src="https://img.shields.io/badge/-Charles_Proxy-black">
-  <img src="https://img.shields.io/badge/-Chrome_DevTools-black">
-  <img src="https://img.shields.io/badge/-Android_Studio-black?logo=androidstudio">
-  <img src="https://img.shields.io/badge/-Figma-black?logo=figma">
-  <img src="https://img.shields.io/badge/-PowerBI-black?logo=powerbi">
-  <img src="https://img.shields.io/badge/-Excel_Automation-black?logo=microsoft-excel">
-  <img src="https://img.shields.io/badge/-Python-black?logo=python">
+<b>AQA / Automation:</b><br/>
+Python, Pytest, Selenium WebDriver, Page Object, REST API, requests, Allure
 </p>
 
-<h2>🧠 Soft Skills</h2>
 <p>
-  <img src="https://img.shields.io/badge/-Critical_Thinking-black">
-  <img src="https://img.shields.io/badge/-Negotiation-black">
-  <img src="https://img.shields.io/badge/-Requirements_Management-black">
-  <img src="https://img.shields.io/badge/-Process_Optimization-black">
-  <img src="https://img.shields.io/badge/-Data_Analysis-black">
+<b>Manual QA:</b><br/>
+Функциональное и исследовательское тестирование, тест-дизайн (КЭ, ГЗ, pairwise), тест-кейсы, чек-листы, регресс, баг-репорты
+</p>
+
+<p>
+<b>Инструменты:</b><br/>
+Git, GitHub, Postman, DevTools, Jira, YouTrack, Swagger, Charles, SQL (базово)
 </p>
 
 <hr/>
 
 <h2>🎓 Education / Образование</h2>
+
 <ul>
-  <li>🎓 Воронежский государственный университет инженерных технологий —
-    <i>Автоматизация технологических процессов, Прикладная информатика (в экономике)</i></li>
-  <li>📘 Яндекс.Практикум —
-    <i>Инженер по тестированию (ручное тестирование), Автоматизация тестирования на Python (2025)</i></li>
+  <li>
+    🎓 Воронежский государственный университет инженерных технологий — 
+    <i>Прикладная информатика (в экономике)</i>
+  </li>
+  <li>
+    📘 Яндекс.Практикум — 
+    <i>Автоматизация тестирования на Python (2024–2025)</i><br/>
+    В рамках обучения: полный цикл ручного тестирования, тест-дизайн, API-тестирование (Postman)
+  </li>
 </ul>
 
 <hr/>
 
 <p align="center">
-✉️ <b>Свяжитесь со мной / Contact me</b><br/>
-📧 garguliyadavid@gmail.com | 📱 WhatsApp: +7 (985) 936-34-30 | 💬 Telegram: @david_garguliya</a>
+✉️ <b>Contact</b><br/>
+📧 garguliyadavid@gmail.com | 💬 Telegram: @david_garguliya
 </p>
