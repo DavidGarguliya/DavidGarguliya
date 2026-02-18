@@ -22,7 +22,7 @@ QA Automation Engineer (Python) с фокусом на UI- и API-автомат
 
 <ul>
   <li>
-    <b href="https://github.com/DavidGarguliya/scooter_ui_test">📍 Web Scooter Service — UI Automation</b><br/>
+    <b><a href="https://github.com/DavidGarguliya/scooter_ui_test">📍 Web Scooter Service — UI Automation</b><br/>
     UI-автотесты для веб-сервиса аренды самокатов: FAQ, полный e2e-поток заказа через разные точки входа, навигация по логотипам.<br/>
     Архитектура Page Object, Pytest-фикстуры, раздельные конфиги и тестовые данные. 
     Устранение флейков (явные ожидания, единые таймауты).<br/>
