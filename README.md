@@ -18,7 +18,7 @@ QA Automation Engineer (Python) с фокусом на UI- и API-автомат
 
 <hr/>
 
-<h2>🚀 AQA / PET-проекты</h2>
+<h2>🚀 Проекты</h2>
 
 <ul>
   <li>
