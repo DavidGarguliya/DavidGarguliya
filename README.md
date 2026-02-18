@@ -3,7 +3,7 @@
 <h1>👨‍💻 Гаргулия Давид Сергеевич</h1>
 <h3>
 QA Automation Engineer (Python) / AQA Python<br/>
-<a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">Резюме на hh.ru</a>
+<a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">Резюме</a>
 </h3>
 
 </div>
