@@ -6,7 +6,9 @@
 <p>Инженер по автоматизации тестирования</p>
 
 <p>
-
+  <a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">Резюме</a> •
+  <a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation">Stellar Burgers UI</a> •
+  <a href="https://github.com/DavidGarguliya/scooter-service-api-testing">Самокат API</a>
 </p>
 
 </div>
@@ -16,9 +18,13 @@
 <h2>Обо мне</h2>
 
 <p>
-QA Automation Engineer (Python) с практическим опытом автоматизации UI-, API- и unit-проверок.
+QA Automation Engineer (Python) с практическим опытом автоматизации <b>unit-, API- и UI-проверок</b> веб-приложений.
 Разрабатываю поддерживаемые автотесты на <b>Pytest / Selenium / Requests</b>, покрываю критичные пользовательские и бизнес-сценарии,
-уделяю внимание стабильности прогонов, независимости тестов и прозрачной диагностике падений.
+обеспечиваю стабильность прогонов, изоляцию тестов и удобную диагностику падений.
+</p>
+
+<p>
+Основной фокус: <b>API/UI automation</b>, <b>Page Object Model</b>, параметризация, тестовые данные, Allure и поддерживаемая структура тестовой базы.
 </p>
 
 <hr/>
@@ -39,60 +45,91 @@ QA Automation Engineer (Python) с практическим опытом авт�
 </p>
 
 <p>
-<b>Automation:</b> Python, Pytest, Selenium, Requests, REST API, Allure, POM, Parametrize, Fixtures, Mock<br/>
-<b>Tools:</b> Git, GitHub, Postman, DevTools, Swagger, Jira, YouTrack, Charles Proxy
+<b>Automation:</b> Python, Pytest, Selenium, Requests, REST API, Allure, Page Object Model, Parametrize, Fixtures, Mock<br/>
+<b>Tools:</b> Git, GitHub, Postman, Swagger, DevTools, Jira, YouTrack, Charles Proxy, SQL
 </p>
 
 <hr/>
 
 <h2>Проекты</h2>
 
-<h3>Stellar Burgers — <a href="https://github.com/DavidGarguliya/stellar-burger-unit-tests">Unit</a> + <a href="https://github.com/DavidGarguliya/stellar-burger-api">API</a> + <a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation">UI Automation</a></h3>
+<h3>Stellar Burgers — Unit + API + UI Automation</h3>
 
 <p>
-Автоматизированы критические сценарии приложения на уровнях <b>Unit, API и UI</b>.
-Построена масштабируемая структура автотестов, а unit-уровень целевого модуля покрыт на <b>100%</b>.
+Автоматизация критических сценариев веб-приложения на уровнях <b>Unit, API и UI</b>.
 </p>
 
 <ul>
   <li>unit-тесты бизнес-логики конструктора бургеров;</li>
-  <li>API-тесты для регистрации, авторизации и создания заказа;</li>
-  <li>UI-автотесты ключевых пользовательских сценариев;</li>
-  <li>Page Object Model, Mock, Parametrize, Allure;</li>
-  <li>кроссбраузерный запуск в Chrome и Firefox.</li>
+  <li><b>100% покрытия</b> целевого unit-модуля;</li>
+  <li>API-тесты регистрации, авторизации и создания заказа;</li>
+  <li>UI-автотесты для регистрации, входа через несколько точек входа, личного кабинета, выхода из аккаунта и разделов конструктора;</li>
+  <li>генерация тестовых данных, <b>Page Object Model</b>, <b>Mock</b>, <b>Parametrize</b>, <b>Allure</b>;</li>
+  <li>кроссбраузерный запуск в <b>Chrome</b> и <b>Firefox</b>.</li>
 </ul>
 
 <p>
-<i>Стек:</i> Python, Pytest, Selenium, Requests, Allure, POM, Mock, Parametrize
+<b>Репозитории:</b>
+<a href="https://github.com/DavidGarguliya/stellar-burger-unit-tests">Unit</a> ·
+<a href="https://github.com/DavidGarguliya/stellar-burger-api">API</a> ·
+<a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation">UI</a>
 </p>
 
-<h3>Яндекс Самокат — API Automation</h3>
+<p>
+<i>Стек:</i> Python, Pytest, Selenium, Requests, Allure, Page Object Model, Mock, Parametrize
+</p>
+
+<h3>Яндекс Самокат — API и UI Automation</h3>
 
 <p>
-Автоматизированы ключевые API-сценарии сервиса: создание и логин курьера, создание заказа,
-получение списка заказов, обработка ошибок и валидация входных данных.
+Автоматизация ключевых сценариев сервиса <b>Яндекс Самокат</b> на уровнях <b>API и UI</b>.
 </p>
 
 <ul>
+  <li>API-проверки создания и логина курьера, создания заказа и получения списка заказов;</li>
   <li>позитивные, негативные и валидационные сценарии;</li>
-  <li>параметризация сценариев создания заказа;</li>
-  <li>генерация тестовых данных и очистка сущностей;</li>
-  <li>Allure Report для анализа прогонов;</li>
-  <li>дополнительные проверки удаления курьера, принятия заказа и получения заказа по номеру.</li>
+  <li>параметризация сценариев оформления заказа;</li>
+  <li>генерация уникальных данных и очистка сущностей для независимости тестов;</li>
+  <li>UI-автотесты для блока <b>«Вопросы о важном»</b> и позитивного сценария оформления заказа;</li>
+  <li>проверка точек входа в заказ, окна успешного создания заказа и переходов по логотипам;</li>
+  <li><b>Page Object Model</b> и <b>Allure</b> для сопровождения и анализа прогонов.</li>
 </ul>
 
 <p>
-<i>Стек:</i> Python, Pytest, Requests, Allure, REST API, Postman
+<b>Репозитории:</b>
+<a href="https://github.com/DavidGarguliya/scooter-service-api-testing">API</a> ·
+<a href="https://github.com/DavidGarguliya/scooter-service-ui-testing">UI</a>
 </p>
+
+<p>
+<i>Стек:</i> Python, Pytest, Selenium, Requests, REST API, Allure, Page Object Model, Parametrize, Postman
+</p>
+
+<hr/>
+
+<h2>Что я умею</h2>
+
+<ul>
+  <li>автоматизация <b>unit / API / UI</b> тестирования веб-приложений;</li>
+  <li>проектирование поддерживаемой структуры автотестов;</li>
+  <li>работа с <b>Page Object Model</b>, фикстурами, параметризацией и моками;</li>
+  <li>подготовка тестовых данных, изоляция тестов и очистка сущностей;</li>
+  <li>анализ результатов прогонов и диагностика дефектов через <b>Allure</b>;</li>
+  <li>функциональное и исследовательское тестирование, тест-дизайн, регрессия.</li>
+</ul>
 
 <hr/>
 
 <h2>Дополнительный опыт</h2>
 
+<p>
+Опыт в QA и веб-продуктах до перехода в автоматизацию: <b>web, e-commerce, fintech</b>.
+</p>
+
 <ul>
-  <li>Функциональное и исследовательское тестирование веб-продуктов и интерфейсов</li>
-  <li>Проверка бизнес-логики, пользовательских сценариев и UX на соответствие требованиям</li>
-  <li>Баг-репорты, регресс, взаимодействие с разработкой и бизнес-заказчиками</li>
+  <li>функциональное и исследовательское тестирование веб-продуктов и интерфейсов;</li>
+  <li>проверка бизнес-логики, пользовательских сценариев и UX на соответствие требованиям;</li>
+  <li>оформление баг-репортов, регрессионная проверка, взаимодействие с разработкой и бизнес-заказчиками.</li>
 </ul>
 
 <hr/>
@@ -100,7 +137,7 @@ QA Automation Engineer (Python) с практическим опытом авт�
 <h2>Образование</h2>
 
 <p>
-<b>ВГУИТ</b> — Прикладная информатика (в экономике)<br/>
+<b>ВГУИТ</b> — Прикладная информатика в экономике<br/>
 <b>Яндекс Практикум</b> — Full-Stack QA Engineer
 </p>
 
@@ -110,6 +147,6 @@ QA Automation Engineer (Python) с практическим опытом авт�
 
 <p>
 📧 <b>Email:</b> garguliyadavid@gmail.com<br/>
-💬 <b>Telegram:</b> @david_garguliya<br/>
+💬 <b>Telegram:</b> <a href="https://t.me/david_garguliya">@david_garguliya</a><br/>
 📄 <b>Резюме:</b> <a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">hh.ru</a>
 </p>
