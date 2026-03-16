@@ -47,7 +47,7 @@ QA Automation Engineer (Python) с практическим опытом авт�
 
 <h2>Проекты</h2>
 
-<h3>Stellar Burgers — Unit + API + UI Automation</h3>
+<h3>Stellar Burgers — <a href="https://github.com/DavidGarguliya/stellar-burger-unit-tests">Unit</a> + <a href="https://github.com/DavidGarguliya/stellar-burgers-api">API</a> + <a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation">UI Automation</a></h3>
 
 <p>
 Автоматизированы критические сценарии приложения на уровнях <b>Unit, API и UI</b>.
