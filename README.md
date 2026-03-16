@@ -3,7 +3,7 @@
 <h1>Гаргулия Давид Сергеевич</h1>
 
 <h3>QA Automation Engineer (Python)</h3>
-<p>UI / API / Unit Automation</p>
+<p>Инженер по автоматизации тестирования</p>
 
 <p>
 
