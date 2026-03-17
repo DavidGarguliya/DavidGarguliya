@@ -6,9 +6,7 @@
 <p>Инженер по автоматизации тестирования</p>
 
 <p>
-  <a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">Резюме</a> •
-  <a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation">Stellar Burgers UI</a> •
-  <a href="https://github.com/DavidGarguliya/scooter-service-api-testing">Самокат API</a>
+  <a href="https://hh.ru/resume/d234d3bdff0e7142070039ed1f474358566a38">Резюме</a>
 </p>
 
 </div>
