@@ -70,8 +70,8 @@ QA Automation Engineer (Python) с практическим опытом авт�
 <b>Репозитории:</b>
 <a href="https://github.com/DavidGarguliya/stellar-burger-unit-tests">Unit</a> ·
 <a href="https://github.com/DavidGarguliya/stellar-burger-api">API</a> ·
-<a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation_1">UI_1</a> ·
-<a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation_2">UI_2</a>
+<a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation_1">UI0</a> ·
+<a href="https://github.com/DavidGarguliya/stellar-burger-ui-automation_2">UI1</a>
 </p>
 
 <p>
